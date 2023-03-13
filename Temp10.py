@@ -1,2 +1,3 @@
-a = 2 ** 3
-print(a)
+b = 10
+a = 3
+print(a + a // b)
